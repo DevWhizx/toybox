@@ -1,6 +1,6 @@
 /* demo_utf8towc() against libc mbrtowc()
  *
- * Copyright 2017 Rob Landley <rob@landley.net>
+ * Copyright 2017 Rob Landley <robyang_yang@intsig.net>
 
 USE_DEMO_UTF8TOWC(NEWTOY(demo_utf8towc, 0, TOYFLAG_USR|TOYFLAG_BIN))
 

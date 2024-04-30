@@ -1,6 +1,6 @@
 /* printenv.c - Print environment variables.
  *
- * Copyright 2012 Georgi Chorbadzhiyski <georgi@unixsol.org>
+ * Copyright 2012 Georgi Chorbadzhiyski <georgiyang_yang@intsig.net>
 
 USE_PRINTENV(NEWTOY(printenv, "(null)0", TOYFLAG_BIN))
 

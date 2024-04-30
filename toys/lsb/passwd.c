@@ -1,7 +1,7 @@
 /* passwd.c - update user password.
  *
- * Copyright 2012 Ashwini Kumar <ak.ashwini@gmail.com>
- * Modified 2012 Jason Kyungwan Han <asura321@gmail.com>
+ * Copyright 2012 Ashwini Kumar <ak.ashwiniyang_yang@intsig.net>
+ * Modified 2012 Jason Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/passwd.html
 

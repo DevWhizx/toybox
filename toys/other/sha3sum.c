@@ -1,6 +1,6 @@
 /* sha3sum.c - Keccak-f[1600] permutation, sponge construction
  *
- * Copyright 2014 David Leon Gil <coruus@gmail.com>
+ * Copyright 2014 David Leon Gil <coruusyang_yang@intsig.net>
  *
  * https://keccak.team/files/Keccak-reference-3.0.pdf
  * https://csrc.nist.gov/publications/detail/fips/202/final

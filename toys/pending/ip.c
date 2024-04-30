@@ -1,9 +1,9 @@
 /* ip.c - Show / manipulate routing, devices, policy routing and tunnels.
  *
- * Copyright 2014 Sameer Prakash Pradhan <sameer.p.pradhan@gmail.com>
- * Copyright 2014 Ranjan Kumar <ranjankumar.bth@gmail.com>
- * Copyright 2014 Rajni Kant <rajnikant12345@gmail.com>
- * Copyright 2014 Bilal Qureshi <bilal.jmi@gmail.com>
+ * Copyright 2014 Sameer Prakash Pradhan <sameer.p.pradhanyang_yang@intsig.net>
+ * Copyright 2014 Ranjan Kumar <ranjankumar.bthyang_yang@intsig.net>
+ * Copyright 2014 Rajni Kant <rajnikant12345yang_yang@intsig.net>
+ * Copyright 2014 Bilal Qureshi <bilal.jmiyang_yang@intsig.net>
  *
  * No Standard.
  *

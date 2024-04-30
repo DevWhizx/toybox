@@ -1,6 +1,6 @@
 /* swapon.c - Enable region for swapping
  *
- * Copyright 2012 Elie De Brauwer <eliedebrauwer@gmail.com>
+ * Copyright 2012 Elie De Brauwer <eliedebrauweryang_yang@intsig.net>
 
 USE_SWAPON(NEWTOY(swapon, "<1>1p#<0>32767d", TOYFLAG_SBIN|TOYFLAG_NEEDROOT))
 

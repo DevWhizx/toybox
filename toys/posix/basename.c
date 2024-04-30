@@ -1,6 +1,6 @@
 /* basename.c - Return non-directory portion of a pathname
  *
- * Copyright 2012 Tryn Mirell <tryn@mirell.org>
+ * Copyright 2012 Tryn Mirell <trynyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/basename.html
 

@@ -1,6 +1,6 @@
 /* date.c - set/get the date
  *
- * Copyright 2012 Andre Renaud <andre@bluewatersys.com>
+ * Copyright 2012 Andre Renaud <andreyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/date.html
  *

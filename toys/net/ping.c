@@ -1,6 +1,6 @@
 /* ping.c - check network connectivity
  *
- * Copyright 2014 Rob Landley <rob@landley.net>
+ * Copyright 2014 Rob Landley <robyang_yang@intsig.net>
  *
  * Not in SUSv4.
  *

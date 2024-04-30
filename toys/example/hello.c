@@ -1,6 +1,6 @@
 /* hello.c - A hello world program. (Simple template for new commands.)
  *
- * Copyright 2012 Rob Landley <rob@landley.net>
+ * Copyright 2012 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/
  * See http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/cmdbehav.html

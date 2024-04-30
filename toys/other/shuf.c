@@ -1,6 +1,6 @@
 /* shuf.c - Output lines in random order.
  *
- * Copyright 2023 Rob Landley <rob@landley.net>
+ * Copyright 2023 Rob Landley <robyang_yang@intsig.net>
  *
  * See https://man7.org/linux/man-pages/man1/shuf.1.html
 

@@ -1,6 +1,6 @@
 /* du.c - disk usage program.
  *
- * Copyright 2012 Ashwini Kumar <ak.ashwini@gmail.com>
+ * Copyright 2012 Ashwini Kumar <ak.ashwiniyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/du.html
  *

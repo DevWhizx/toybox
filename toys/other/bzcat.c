@@ -1,9 +1,9 @@
 /* bzcat.c - bzip2 decompression
  *
- * Copyright 2003, 2007 Rob Landley <rob@landley.net>
+ * Copyright 2003, 2007 Rob Landley <robyang_yang@intsig.net>
  *
  * Based on a close reading (but not the actual code) of the original bzip2
- * decompression code by Julian R Seward (jseward@acm.org), which also
+ * decompression code by Julian R Seward (jsewardyang_yang@intsig.net), which also
  * acknowledges contributions by Mike Burrows, David Wheeler, Peter Fenwick,
  * Alistair Moffat, Radford Neal, Ian H. Witten, Robert Sedgewick, and
  * Jon L. Bentley.

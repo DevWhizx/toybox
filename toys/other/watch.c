@@ -1,7 +1,7 @@
 /* watch.c - Show bounded output of a periodically executed command.
  *
- * Copyright 2013 Sandeep Sharma <sandeep.jack2756@gmail.com>
- * Copyright 2013 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2013 Sandeep Sharma <sandeep.jack2756yang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * No standard. See http://man7.org/linux/man-pages/man1/watch.1.html
  *

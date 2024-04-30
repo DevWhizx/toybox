@@ -1,6 +1,6 @@
 /* setsid.c - Run program in a new session ID.
  *
- * Copyright 2006 Rob Landley <rob@landley.net>
+ * Copyright 2006 Rob Landley <robyang_yang@intsig.net>
 
 USE_SETSID(NEWTOY(setsid, "^<1wc@d[!dc]", TOYFLAG_USR|TOYFLAG_BIN))
 

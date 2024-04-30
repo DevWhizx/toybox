@@ -1,6 +1,6 @@
 /* oneit.c - tiny init replacement to launch a single child process.
  *
- * Copyright 2005, 2007 by Rob Landley <rob@landley.net>.
+ * Copyright 2005, 2007 by Rob Landley <robyang_yang@intsig.net>.
 
 USE_ONEIT(NEWTOY(oneit, "^<1nc:p3[!pn]", TOYFLAG_SBIN))
 

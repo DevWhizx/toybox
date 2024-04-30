@@ -4,7 +4,7 @@
  * error message, so the caller doesn't have to check for failure. They
  * usually have the same arguments and return value as the function they wrap.
  *
- * Copyright 2006 Rob Landley <rob@landley.net>
+ * Copyright 2006 Rob Landley <robyang_yang@intsig.net>
  */
 
 #include "toys.h"

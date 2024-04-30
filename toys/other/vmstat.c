@@ -1,6 +1,6 @@
 /* vmstat.c - Report virtual memory statistics.
  *
- * Copyright 2012 Elie De Brauwer <eliedebrauwer@gmail.com>
+ * Copyright 2012 Elie De Brauwer <eliedebrauweryang_yang@intsig.net>
  *
  * TODO: I have no idea how "system" category is calculated.
  * whatever we're doing isn't matching what other implementations are doing.

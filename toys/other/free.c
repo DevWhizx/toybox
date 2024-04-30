@@ -1,6 +1,6 @@
 /* free.c - Display amount of free and used memory in the system.
  *
- * Copyright 2012 Elie De Brauwer <eliedebrauwer@gmail.com>
+ * Copyright 2012 Elie De Brauwer <eliedebrauweryang_yang@intsig.net>
 
 // Flag order is signifcant: b-g are units in order, FLAG_h-1 is unit mask
 USE_FREE(NEWTOY(free, "hgmkb[!hgmkb]", TOYFLAG_USR|TOYFLAG_BIN))

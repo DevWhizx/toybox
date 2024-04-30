@@ -1,6 +1,6 @@
 /* crond.c - daemon to execute scheduled commands.
  *
- * Copyright 2014 Ranjan Kumar <ranjankumar.bth@gmail.com>
+ * Copyright 2014 Ranjan Kumar <ranjankumar.bthyang_yang@intsig.net>
  *
  * No Standard
 

@@ -1,7 +1,7 @@
 /* groupadd.c - create a new group
  *
- * Copyright 2013 Ashwini Kumar <ak.ashwini@gmail.com>
- * Copyright 2013 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2013 Ashwini Kumar <ak.ashwiniyang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * See http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/groupadd.html
 

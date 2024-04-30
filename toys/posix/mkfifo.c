@@ -1,6 +1,6 @@
 /* mkfifo.c - Create FIFOs (named pipes)
  *
- * Copyright 2012 Georgi Chorbadzhiyski <georgi@unixsol.org>
+ * Copyright 2012 Georgi Chorbadzhiyski <georgiyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/mkfifo.html
 

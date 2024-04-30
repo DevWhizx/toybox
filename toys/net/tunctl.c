@@ -1,6 +1,6 @@
 /* tunctl.c - Control tap/tun network devices.
  *
- * Copyright 2016 Rob Landley <rob@landley.net>
+ * Copyright 2016 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://kernel.org/doc/Documentation/networking/tuntap.txt
  *

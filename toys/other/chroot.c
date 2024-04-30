@@ -1,6 +1,6 @@
 /* chroot.c - Run command in new root directory.
  *
- * Copyright 2007 Rob Landley <rob@landley.net>
+ * Copyright 2007 Rob Landley <robyang_yang@intsig.net>
  *
  * TODO: The test for root is "==" so root can trivially escape a chroot by
  * moving it below cwd, ala mkdir("sub"); chroot("sub"); chdir("../../../..")

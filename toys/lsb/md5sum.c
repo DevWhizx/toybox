@@ -1,6 +1,6 @@
 /* md5sum.c - Calculate hashes md5, sha1, sha224, sha256, sha384, sha512.
  *
- * Copyright 2012, 2021 Rob Landley <rob@landley.net>
+ * Copyright 2012, 2021 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/md5sum.html
  * and http://www.ietf.org/rfc/rfc1321.txt

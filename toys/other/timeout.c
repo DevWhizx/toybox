@@ -1,6 +1,6 @@
 /* timeout.c - Run command line with a timeout
  *
- * Copyright 2013 Rob Landley <rob@landley.net>
+ * Copyright 2013 Rob Landley <robyang_yang@intsig.net>
  *
  * No standard
 

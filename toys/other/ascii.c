@@ -1,6 +1,6 @@
 /* ascii.c - display ascii table
  *
- * Copyright 2017 Rob Landley <rob@landley.net>
+ * Copyright 2017 Rob Landley <robyang_yang@intsig.net>
  *
  * Technically 7-bit ASCII is ANSI X3.4-1986, a standard available as
  * INCITS 4-1986[R2012] on ansi.org, but they charge for it.

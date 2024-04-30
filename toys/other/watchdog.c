@@ -1,6 +1,6 @@
 /* watchdog - start a watchdog timer with configurable kick frequencies
  *
- * Copyright 2019 Chris Sarra <chrissarra@google.com>
+ * Copyright 2019 Chris Sarra <chrissarrayang_yang@intsig.net>
  *
  * See kernel.org/doc/Documentation/watchdog/watchdog-api.txt
 

@@ -1,6 +1,6 @@
 /* lib.h - header file for lib directory
  *
- * Copyright 2006 Rob Landley <rob@landley.net>
+ * Copyright 2006 Rob Landley <robyang_yang@intsig.net>
  */
 
 // llist.c

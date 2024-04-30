@@ -1,6 +1,6 @@
 /* test.c - evaluate expression
  *
- * Copyright 2018 Rob Landley <rob@landley.net>
+ * Copyright 2018 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/test.html
  *

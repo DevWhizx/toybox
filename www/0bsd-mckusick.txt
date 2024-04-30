@@ -4,7 +4,7 @@ X-UIDL: GmailId166832be205bc2bd
 X-Mozilla-Status: 1013
 X-Mozilla-Status2: 00000000
 X-Mozilla-Keys:                                                                                 
-Delivered-To: rob@landley.net
+Delivered-To: robyang_yang@intsig.net
 Received: by 2002:ab0:208c:0:0:0:0:0 with SMTP id r12csp943206uak;
         Wed, 17 Oct 2018 10:56:23 -0700 (PDT)
 X-Google-Smtp-Source: ACcGV61EHdCAKXqiC2g4VHKVIL9kgr4swWkJtL9r6jorwOeN6QWG09j9dd8vuBA2AqOxUrypnI88
@@ -29,40 +29,40 @@ ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc
          nhNHc47pJ4EU2o7G4yAwBBVETXQYYc8rl259VCKiSuGy0hEKGKweVieTEAe8V+NrZzd2
          UV7A==
 ARC-Authentication-Results: i=1; mx.google.com;
-       spf=pass (google.com: best guess record for domain of mckusick@mckusick.com designates 70.36.157.235 as permitted sender) smtp.mailfrom=mckusick@mckusick.com
-Return-Path: <mckusick@mckusick.com>
+       spf=pass (google.com: best guess record for domain of mckusickyang_yang@intsig.net designates 70.36.157.235 as permitted sender) smtp.mailfrom=mckusickyang_yang@intsig.net
+Return-Path: <mckusickyang_yang@intsig.net>
 Received: from chez.mckusick.com (chez.mckusick.com. [70.36.157.235])
         by mx.google.com with ESMTPS id 129-v6si18906639pfd.201.2018.10.17.10.56.23
-        for <rob@landley.net>
+        for <robyang_yang@intsig.net>
         (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
         Wed, 17 Oct 2018 10:56:23 -0700 (PDT)
-Received-SPF: pass (google.com: best guess record for domain of mckusick@mckusick.com designates 70.36.157.235 as permitted sender) client-ip=70.36.157.235;
+Received-SPF: pass (google.com: best guess record for domain of mckusickyang_yang@intsig.net designates 70.36.157.235 as permitted sender) client-ip=70.36.157.235;
 Authentication-Results: mx.google.com;
-       spf=pass (google.com: best guess record for domain of mckusick@mckusick.com designates 70.36.157.235 as permitted sender) smtp.mailfrom=mckusick@mckusick.com
+       spf=pass (google.com: best guess record for domain of mckusickyang_yang@intsig.net designates 70.36.157.235 as permitted sender) smtp.mailfrom=mckusickyang_yang@intsig.net
 Received: from chez.mckusick.com (localhost [IPv6:::1])
 	by chez.mckusick.com (8.15.2/8.15.2) with ESMTP id w9HI1egQ039009
-	for <rob@landley.net>; Wed, 17 Oct 2018 11:01:40 -0700 (PDT)
-	(envelope-from mckusick@mckusick.com)
-Message-Id: <201810171801.w9HI1egQ039009@chez.mckusick.com>
-From: Kirk McKusick <mckusick@mckusick.com>
-To: Rob Landley <rob@landley.net>
+	for <robyang_yang@intsig.net>; Wed, 17 Oct 2018 11:01:40 -0700 (PDT)
+	(envelope-from mckusickyang_yang@intsig.net)
+Message-Id: <201810171801.w9HI1egQ039009yang_yang@intsig.net>
+From: Kirk McKusick <mckusickyang_yang@intsig.net>
+To: Rob Landley <robyang_yang@intsig.net>
 Subject: Re: License naming question.
 X-URL: http://WWW.McKusick.COM/
-Reply-To: Kirk McKusick <mckusick@mckusick.com>
-In-reply-to: <9bf40da7-afb3-d3d6-3759-d1566c99aa20@landley.net>
-Comments: In-reply-to Rob Landley <rob@landley.net>
+Reply-To: Kirk McKusick <mckusickyang_yang@intsig.net>
+In-reply-to: <9bf40da7-afb3-d3d6-3759-d1566c99aa20yang_yang@intsig.net>
+Comments: In-reply-to Rob Landley <robyang_yang@intsig.net>
    message dated "Tue, 16 Oct 2018 17:57:10 -0500."
 MIME-Version: 1.0
 Content-Type: text/plain; charset="us-ascii"
-Content-ID: <39007.1539799300.1@chez.mckusick.com>
+Content-ID: <39007.1539799300.1yang_yang@intsig.net>
 Content-Transfer-Encoding: quoted-printable
 Date: Wed, 17 Oct 2018 11:01:40 -0700
 X-Spam-Status: No, score=-1.4 required=5.0 tests=BAYES_00,MISSING_MID,
 	UNPARSEABLE_RELAY autolearn=no autolearn_force=no version=3.4.1
 X-Spam-Checker-Version: SpamAssassin 3.4.1 (2015-04-28) on chez.mckusick.com
 
-> To: mckusick@mckusick.com
-> From: Rob Landley <rob@landley.net>
+> To: mckusickyang_yang@intsig.net
+> From: Rob Landley <robyang_yang@intsig.net>
 > Subject: License naming question.
 > Date: Tue, 16 Oct 2018 17:57:10 -0500
 > =

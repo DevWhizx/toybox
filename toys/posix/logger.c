@@ -1,6 +1,6 @@
 /* logger.c - Log messages.
  *
- * Copyright 2013 Ilya Kuzmich <ilya.kuzmich@gmail.com>
+ * Copyright 2013 Ilya Kuzmich <ilya.kuzmichyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/logger.html
  *

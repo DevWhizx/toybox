@@ -1,6 +1,6 @@
 /* hwclock.c - get and set the hwclock
  *
- * Copyright 2014 Bilal Qureshi <bilal.jmi@gmail.com>
+ * Copyright 2014 Bilal Qureshi <bilal.jmiyang_yang@intsig.net>
  *
  * No standard, but see Documentation/rtc.txt in the linux kernel source.
  *

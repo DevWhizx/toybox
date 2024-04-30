@@ -1,6 +1,6 @@
 /* linux32.c - Change uname -m output, and on some architectures /proc/cpuinfo
  *
- * Copyright 2023 Rob Landley <rob@landley.net>
+ * Copyright 2023 Rob Landley <robyang_yang@intsig.net>
  *
  * No standard: it's a syscall wrapper provided by util-linux.
 

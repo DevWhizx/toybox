@@ -1,6 +1,6 @@
 /* fsync.c - Synchronize a file's in-core state with storage device.
  *
- * Copyright 2015 Ranjan Kumar <ranjankumar.bth@gmail.comi>
+ * Copyright 2015 Ranjan Kumar <ranjankumar.bthyang_yang@intsig.net>
  *
  * No Standard.
 

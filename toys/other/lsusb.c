@@ -1,7 +1,7 @@
 /* lsusb.c - list available USB devices
  *
- * Copyright 2013 Andre Renaud <andre@bluewatersys.com>
- * Copyright 2013 Isaac Dunham <ibid.ag@gmail.com>
+ * Copyright 2013 Andre Renaud <andreyang_yang@intsig.net>
+ * Copyright 2013 Isaac Dunham <ibid.agyang_yang@intsig.net>
 
 USE_LSUSB(NEWTOY(lsusb, "i:", TOYFLAG_USR|TOYFLAG_BIN))
 USE_LSPCI(NEWTOY(lspci, "emkn@x@i:", TOYFLAG_USR|TOYFLAG_BIN))

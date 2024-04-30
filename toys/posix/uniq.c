@@ -1,6 +1,6 @@
 /* uniq.c - report or filter out repeated lines in a file
  *
- * Copyright 2012 Georgi Chorbadzhiyski <georgi@unixsol.org>
+ * Copyright 2012 Georgi Chorbadzhiyski <georgiyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/uniq.html
 

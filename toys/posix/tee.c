@@ -1,6 +1,6 @@
 /* tee.c - cat to multiple outputs.
  *
- * Copyright 2008 Rob Landley <rob@landley.net>
+ * Copyright 2008 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/tee.html
 

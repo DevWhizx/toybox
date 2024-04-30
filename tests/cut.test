@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Copyright 2013 Robin Mittal <robinmittal.it@gmail.com>
-# Copyright 2013 Divya Kothari <divya.s.kothari@gmail.com>
-# Copyright 2013  Kyungwan.Han <asura321@gmail.com>
+# Copyright 2013 Robin Mittal <robinmittal.ityang_yang@intsig.net>
+# Copyright 2013 Divya Kothari <divya.s.kothariyang_yang@intsig.net>
+# Copyright 2013  Kyungwan.Han <asura321yang_yang@intsig.net>
 
 [ -f testing.sh ] && . testing.sh
 

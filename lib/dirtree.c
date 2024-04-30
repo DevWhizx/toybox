@@ -1,6 +1,6 @@
 /* dirtree.c - Functions for dealing with directory trees.
  *
- * Copyright 2007 Rob Landley <rob@landley.net>
+ * Copyright 2007 Rob Landley <robyang_yang@intsig.net>
  */
 
 #include "toys.h"

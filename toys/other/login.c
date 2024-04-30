@@ -1,6 +1,6 @@
 /* login.c - Start a session on the system.
  *
- * Copyright 2012 Elie De Brauwer <eliedebrauwer@gmail.com>
+ * Copyright 2012 Elie De Brauwer <eliedebrauweryang_yang@intsig.net>
  *
  * No support for PAM/securetty/selinux/login script/issue/utmp
  * Relies on libcrypt for hash calculation.

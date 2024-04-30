@@ -1,6 +1,6 @@
 /* truncate.c - set file length, extending sparsely if necessary
  *
- * Copyright 2011 Rob Landley <rob@landley.net>
+ * Copyright 2011 Rob Landley <robyang_yang@intsig.net>
 
 USE_TRUNCATE(NEWTOY(truncate, "<1s:|c", TOYFLAG_USR|TOYFLAG_BIN))
 

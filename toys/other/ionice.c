@@ -1,6 +1,6 @@
 /* ionice.c - set or get process I/O scheduling class and priority
  *
- * Copyright 2015 Rob Landley <rob@landley.net>
+ * Copyright 2015 Rob Landley <robyang_yang@intsig.net>
  *
  * It would be really nice if there was a standard, but no. There is
  * Documentation/block/ioprio.txt in the linux source.

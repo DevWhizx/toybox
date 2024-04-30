@@ -1,6 +1,6 @@
 /* readahead.c - preload files into disk cache.
  *
- * Copyright 2013 Rob Landley <rob@landley.net>
+ * Copyright 2013 Rob Landley <robyang_yang@intsig.net>
  *
  * No standard.
 

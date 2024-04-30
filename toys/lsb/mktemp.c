@@ -1,6 +1,6 @@
 /* mktemp.c - Create a temporary file or directory.
  *
- * Copyright 2012 Elie De Brauwer <eliedebrauwer@gmail.com>
+ * Copyright 2012 Elie De Brauwer <eliedebrauweryang_yang@intsig.net>
  *
  * http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/mktemp.html
 

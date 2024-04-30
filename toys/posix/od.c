@@ -1,7 +1,7 @@
 /* od.c - Provide octal/hex dumps of data
  *
- * Copyright 2012 Andre Renaud <andre@bluewatersys.com>
- * Copyright 2012 Rob Landley <rob@landley.net>
+ * Copyright 2012 Andre Renaud <andreyang_yang@intsig.net>
+ * Copyright 2012 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/od.html
 

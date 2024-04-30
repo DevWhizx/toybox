@@ -1,6 +1,6 @@
 /* cut.c - print selected ranges from a file
  *
- * Copyright 2016 Rob Landley <rob@landley.net>
+ * Copyright 2016 Rob Landley <robyang_yang@intsig.net>
  *
  * http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cut.html
  *

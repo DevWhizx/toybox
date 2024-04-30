@@ -1,6 +1,6 @@
 /* netcat.c - Forward stdin/stdout to a file or network connection.
  *
- * Copyright 2007 Rob Landley <rob@landley.net>
+ * Copyright 2007 Rob Landley <robyang_yang@intsig.net>
  *
  * TODO: genericize for telnet/microcom/tail-f, fix -t
 

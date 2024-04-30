@@ -1,6 +1,6 @@
 /* help.c - Show help for toybox commands
  *
- * Copyright 2007 Rob Landley <rob@landley.net>
+ * Copyright 2007 Rob Landley <robyang_yang@intsig.net>
  *
  * Often a shell builtin.
 

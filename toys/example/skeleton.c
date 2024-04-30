@@ -1,7 +1,7 @@
 /* skeleton.c - Example program to act as template for new commands.
  *              (Although really, half the time copying hello.c is easier.)
  *
- * Copyright 2014 Rob Landley <rob@landley.net>
+ * Copyright 2014 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/
  * See http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/cmdbehav.html

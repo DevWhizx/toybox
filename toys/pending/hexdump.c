@@ -1,6 +1,6 @@
 /* hexdump.c - Dump file content in hexadecimal format to stdout
  *
- * Copyright 2021 Moritz Röhrich <moritz@ildefons.de>
+ * Copyright 2021 Moritz Röhrich <moritzyang_yang@intsig.net>
  *
  * No standard
  *

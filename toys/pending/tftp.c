@@ -1,7 +1,7 @@
 /* tftp.c - TFTP client.
  *
- * Copyright 2012 Madhur Verma <mad.flexi@gmail.com>
- * Copyright 2015 Sameer Prakash Pradhan <sameer.p.pradhan@gmail.com>
+ * Copyright 2012 Madhur Verma <mad.flexiyang_yang@intsig.net>
+ * Copyright 2015 Sameer Prakash Pradhan <sameer.p.pradhanyang_yang@intsig.net>
  *
  * No Standard.
 

@@ -1,6 +1,6 @@
 /* commas.c - Deal with comma separated lists
  *
- * Copyright 2018 Rob Landley <rob@landley.net>
+ * Copyright 2018 Rob Landley <robyang_yang@intsig.net>
  */
 
 #include "toys.h"

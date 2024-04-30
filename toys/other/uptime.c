@@ -1,8 +1,8 @@
 /* uptime.c - Tell how long the system has been running.
  *
- * Copyright 2012 Elie De Brauwer <eliedebrauwer@gmail.com>
- * Copyright 2012 Luis Felipe Strano Moraes <lfelipe@profusion.mobi>
- * Copyright 2013 Jeroen van Rijn <jvrnix@gmail.com>
+ * Copyright 2012 Elie De Brauwer <eliedebrauweryang_yang@intsig.net>
+ * Copyright 2012 Luis Felipe Strano Moraes <lfelipeyang_yang@intsig.net>
+ * Copyright 2013 Jeroen van Rijn <jvrnixyang_yang@intsig.net>
 
 USE_UPTIME(NEWTOY(uptime, ">0ps", TOYFLAG_USR|TOYFLAG_BIN))
 

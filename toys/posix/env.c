@@ -1,6 +1,6 @@
 /* env.c - Set the environment for command invocation.
  *
- * Copyright 2012 Tryn Mirell <tryn@mirell.org>
+ * Copyright 2012 Tryn Mirell <trynyang_yang@intsig.net>
  *
  * http://opengroup.org/onlinepubs/9699919799/utilities/env.html
  *

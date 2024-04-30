@@ -1,6 +1,6 @@
 /* su.c - switch user
  *
- * Copyright 2013 CE Strake <strake888@gmail.com>
+ * Copyright 2013 CE Strake <strake888yang_yang@intsig.net>
  *
  * See http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/su.html
  * TODO: log su attempts

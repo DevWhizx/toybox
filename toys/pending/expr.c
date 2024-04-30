@@ -1,7 +1,7 @@
 /* expr.c - evaluate expression
  *
  * Copyright 2016 Google Inc.
- * Copyright 2013 Daniel Verkamp <daniel@drv.nu>
+ * Copyright 2013 Daniel Verkamp <danielyang_yang@intsig.net>
  *
  * http://pubs.opengroup.org/onlinepubs/9699919799/utilities/expr.html
  *

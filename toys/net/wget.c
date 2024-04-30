@@ -1,7 +1,7 @@
 /* wget.c - Simple downloader to get the resource file from a HTTP server
  *
- * Copyright 2016 Lipi C.H. Lee <lipisoft@gmail.com>
- * Copyright 2021 Eric Molitor <eric@molitor.org>
+ * Copyright 2016 Lipi C.H. Lee <lipisoftyang_yang@intsig.net>
+ * Copyright 2021 Eric Molitor <ericyang_yang@intsig.net>
  *
  * Relevant sources of information
  * -------------------------------

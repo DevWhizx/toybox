@@ -1,7 +1,7 @@
 /* getty.c - A getty program to get controlling terminal.
  *
- * Copyright 2012 Sandeep Sharma <sandeep.jack2756@gamil.com>
- * Copyright 2013 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2012 Sandeep Sharma <sandeep.jack2756yang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * No Standard.
 

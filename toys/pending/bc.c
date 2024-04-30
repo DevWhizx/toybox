@@ -1,6 +1,6 @@
 /* bc.c - An implementation of POSIX bc.
  *
- * Copyright 2018 Gavin D. Howard <yzena.tech@gmail.com>
+ * Copyright 2018 Gavin D. Howard <yzena.techyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/bc.html
 

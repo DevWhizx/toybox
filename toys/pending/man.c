@@ -1,6 +1,6 @@
 /* man.c - Read system documentation
  *
- * Copyright 2019 makepost <makepost@firemail.cc>
+ * Copyright 2019 makepost <makepostyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/man.html
 

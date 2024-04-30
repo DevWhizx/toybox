@@ -1,6 +1,6 @@
 /* head.c - copy first lines from input to stdout.
  *
- * Copyright 2006 Timothy Elliott <tle@holymonkey.com>
+ * Copyright 2006 Timothy Elliott <tleyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/head.html
  *

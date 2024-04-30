@@ -1,6 +1,6 @@
 /* usleep.c - Wait for a number of microseconds.
  *
- * Copyright 2012 Elie De Brauwer <eliedebrauwer@gmail.com>
+ * Copyright 2012 Elie De Brauwer <eliedebrauweryang_yang@intsig.net>
 
 USE_USLEEP(NEWTOY(usleep, "<1>1", TOYFLAG_BIN))
 

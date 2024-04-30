@@ -1,6 +1,6 @@
 /* touch.c : change timestamp of a file
  *
- * Copyright 2012 Choubey Ji <warior.linux@gmail.com>
+ * Copyright 2012 Choubey Ji <warior.linuxyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/touch.html
  *

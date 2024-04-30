@@ -1,6 +1,6 @@
 /* demo_number.c - Expose atolx() and human_readable() for testing.
  *
- * Copyright 2015 Rob Landley <rob@landley.net>
+ * Copyright 2015 Rob Landley <robyang_yang@intsig.net>
 
 USE_DEMO_NUMBER(NEWTOY(demo_number, "D#=3<3M#<0hcdbs", TOYFLAG_BIN))
 

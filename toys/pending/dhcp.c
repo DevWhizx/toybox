@@ -1,7 +1,7 @@
 /* dhcp.c - DHCP client for dynamic network configuration.
  *
- * Copyright 2012 Madhur Verma <mad.flexi@gmail.com>
- * Copyright 2013 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2012 Madhur Verma <mad.flexiyang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * See RFC 2132, and 3442 (option 121)
 

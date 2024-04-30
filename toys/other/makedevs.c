@@ -1,7 +1,7 @@
 /* makedevs.c - Make ranges of device files.
  *
- * Copyright 2014 Bilal Qureshi <bilal.jmi@gmail.com>
- * Copyright 2014 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2014 Bilal Qureshi <bilal.jmiyang_yang@intsig.net>
+ * Copyright 2014 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * No Standard
 

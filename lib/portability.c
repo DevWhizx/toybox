@@ -1,7 +1,7 @@
 /* portability.c - code to workaround the deficiencies of various platforms.
  *
- * Copyright 2012 Rob Landley <rob@landley.net>
- * Copyright 2012 Georgi Chorbadzhiyski <gf@unixsol.org>
+ * Copyright 2012 Rob Landley <robyang_yang@intsig.net>
+ * Copyright 2012 Georgi Chorbadzhiyski <gfyang_yang@intsig.net>
  */
 
 #include "toys.h"

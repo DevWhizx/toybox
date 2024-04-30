@@ -1,6 +1,6 @@
 /* deflate.c - deflate/inflate code for gzip and friends
  *
- * Copyright 2014 Rob Landley <rob@landley.net>
+ * Copyright 2014 Rob Landley <robyang_yang@intsig.net>
  *
  * See RFCs 1950 (zlib), 1951 (deflate), and 1952 (gzip)
  * LSB 4.1 has gzip, gunzip, and zcat

@@ -1,6 +1,6 @@
 /* hostid.c - Print the numeric identifier for the current host.
  *
- * Copyright 2015 Ranjan Kumar <ranjankumar.bth@gmail.com>
+ * Copyright 2015 Ranjan Kumar <ranjankumar.bthyang_yang@intsig.net>
  *
  * No Standard.
  *

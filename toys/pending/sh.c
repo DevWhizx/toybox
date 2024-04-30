@@ -1,6 +1,6 @@
 /* sh.c - toybox shell
  *
- * Copyright 2006 Rob Landley <rob@landley.net>
+ * Copyright 2006 Rob Landley <robyang_yang@intsig.net>
  *
  * This shell aims for bash compatibility. The bash man page is at:
  * http://man7.org/linux/man-pages/man1/bash.1.html

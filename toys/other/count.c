@@ -1,6 +1,6 @@
 /* count.c - Progress indicator from stdin to stdout
  *
- * Copyright 2002 Rob Landley <rob@landley.net>
+ * Copyright 2002 Rob Landley <robyang_yang@intsig.net>
 
 USE_COUNT(NEWTOY(count, "<0>0l", TOYFLAG_USR|TOYFLAG_BIN))
 

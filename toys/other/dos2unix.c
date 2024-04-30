@@ -1,6 +1,6 @@
 /* dos2unix.c - convert newline format
  *
- * Copyright 2012 Rob Landley <rob@landley.net>
+ * Copyright 2012 Rob Landley <robyang_yang@intsig.net>
 
 USE_DOS2UNIX(NEWTOY(dos2unix, 0, TOYFLAG_BIN))
 USE_UNIX2DOS(NEWTOY(unix2dos, 0, TOYFLAG_BIN))

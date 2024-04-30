@@ -1,6 +1,6 @@
 /* time.c - time a simple command
  *
- * Copyright 2013 Rob Landley <rob@landley.net>
+ * Copyright 2013 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/time.html
 

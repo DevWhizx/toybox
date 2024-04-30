@@ -1,6 +1,6 @@
 /* chmod.c - Change file mode bits
  *
- * Copyright 2012 Rob Landley <rob@landley.net>
+ * Copyright 2012 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/chmod.html
 

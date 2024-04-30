@@ -1,6 +1,6 @@
 /* hostname.c - Get/Set the hostname
  *
- * Copyright 2012 Andre Renaud <andre@bluewatersys.com>
+ * Copyright 2012 Andre Renaud <andreyang_yang@intsig.net>
  *
  * http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/hostname.html
 

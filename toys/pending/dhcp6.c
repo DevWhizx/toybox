@@ -1,6 +1,6 @@
 /* dhcp6.c - DHCP6 client for dynamic network configuration.
  *
- * Copyright 2015 Rajni Kant <rajnikant12345@gmail.com>
+ * Copyright 2015 Rajni Kant <rajnikant12345yang_yang@intsig.net>
  *
  * Not in SUSv4.
 USE_DHCP6(NEWTOY(dhcp6, "r:A#<0T#<0t#<0s:p:i:SRvqnbf", TOYFLAG_SBIN|TOYFLAG_ROOTONLY))

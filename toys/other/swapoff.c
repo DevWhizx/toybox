@@ -1,6 +1,6 @@
 /* swapoff.c - Disable region for swapping
  *
- * Copyright 2012 Elie De Brauwer <eliedebrauwer@gmail.com>
+ * Copyright 2012 Elie De Brauwer <eliedebrauweryang_yang@intsig.net>
 
 USE_SWAPOFF(NEWTOY(swapoff, "<1>1av", TOYFLAG_SBIN|TOYFLAG_NEEDROOT))
 

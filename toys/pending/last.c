@@ -1,7 +1,7 @@
 /* last.c - Show listing of last logged in users.
  *
- * Copyright 2013 Ranjan Kumar <ranjankumar.bth@gmail.com>
- * Copyright 2013 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2013 Ranjan Kumar <ranjankumar.bthyang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * No Standard.
 

@@ -1,6 +1,6 @@
 /* git.c - A minimal git clone
  *
- * Copyright 2022 Moritz C. Weber <mo.c.weber@gmail.com>
+ * Copyright 2022 Moritz C. Weber <mo.c.weberyang_yang@intsig.net>
  *
  * See https://git-scm.com/docs/git-init
  * https://git-scm.com/docs/git-remote

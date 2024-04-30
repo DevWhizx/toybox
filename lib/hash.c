@@ -1,6 +1,6 @@
 /* hash.c - Calculate various cryptographic hashes.
  *
- * Copyright 2012, 2021 Rob Landley <rob@landley.net>
+ * Copyright 2012, 2021 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://www.ietf.org/rfc/rfc1321.txt
  * and http://www.ietf.org/rfc/rfc4634.txt

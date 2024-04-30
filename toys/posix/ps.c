@@ -1,6 +1,6 @@
 /* ps.c - show process list
  *
- * Copyright 2015 Rob Landley <rob@landley.net>
+ * Copyright 2015 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ps.html
  * And http://kernel.org/doc/Documentation/filesystems/proc.txt Table 1-4

@@ -1,6 +1,6 @@
 /* elf.c - Executable Linking Format manipulation functions.
  *
- * Copyright 2023 Rob Landley <rob@landley.net>
+ * Copyright 2023 Rob Landley <robyang_yang@intsig.net>
  */
 
 #include "toys.h"

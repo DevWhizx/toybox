@@ -1,6 +1,6 @@
 /* umount.c - Unmount a mount point.
  *
- * Copyright 2012 Rob Landley <rob@landley.net>
+ * Copyright 2012 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/umount.html
  *

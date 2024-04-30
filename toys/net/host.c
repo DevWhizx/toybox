@@ -1,6 +1,6 @@
 /* host.c - DNS lookup utility
  *
- * Copyright 2014 Rich Felker <dalias@aerifal.cx>
+ * Copyright 2014 Rich Felker <daliasyang_yang@intsig.net>
  *
  * No standard, but there's a version in bind9
  * See https://www.ietf.org/rfc/rfc1035.txt

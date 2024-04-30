@@ -1,6 +1,6 @@
 /* hexedit.c - Hexadecimal file editor
  *
- * Copyright 2015 Rob Landley <rob@landley.net>
+ * Copyright 2015 Rob Landley <robyang_yang@intsig.net>
  *
  * No standard.
 

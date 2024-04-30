@@ -1,6 +1,6 @@
 /* tty.c - cursor control
  *
- * Copyright 2015 Rob Landley <rob@landley.net>
+ * Copyright 2015 Rob Landley <robyang_yang@intsig.net>
  *
  * Common ANSI (See https://man7.org/linux/man-pages/man4/console_codes.4.html)
  * \e[#m   - color change           \e[y;xH - jump to x/y pos (1;1 is top left)

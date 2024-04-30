@@ -1,8 +1,8 @@
 /* telnet.c - Telnet client.
  *
- * Copyright 2012 Madhur Verma <mad.flexi@gmail.com>
- * Copyright 2013 Kyungwan Han <asura321@gmail.com>
- * Modified by Ashwini Kumar <ak.ashwini1981@gmail.com>
+ * Copyright 2012 Madhur Verma <mad.flexiyang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
+ * Modified by Ashwini Kumar <ak.ashwini1981yang_yang@intsig.net>
  *
  * Not in SUSv4.
 

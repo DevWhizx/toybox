@@ -1,4 +1,4 @@
-/* Copyright 2008 Rob Landley <rob@landley.net>
+/* Copyright 2008 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/cp.html
  * And http://opengroup.org/onlinepubs/9699919799/utilities/mv.html

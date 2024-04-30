@@ -1,6 +1,6 @@
 /* stat.c : display file or file system status
- * Copyright 2012 <warior.linux@gmail.com>
- * Copyright 2013 <anand.sinha85@gmail.com>
+ * Copyright 2012 <warior.linuxyang_yang@intsig.net>
+ * Copyright 2013 <anand.sinha85yang_yang@intsig.net>
 
 USE_STAT(NEWTOY(stat, "<1c:(format)fLt", TOYFLAG_BIN))
 

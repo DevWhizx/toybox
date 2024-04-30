@@ -1,6 +1,6 @@
 /* paste.c - Merge corresponding lines
  *
- * Copyright 2012 Felix Janda <felix.janda@posteo.de>
+ * Copyright 2012 Felix Janda <felix.jandayang_yang@intsig.net>
  *
  * http://pubs.opengroup.org/onlinepubs/9699919799/utilities/paste.html
  *

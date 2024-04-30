@@ -1,6 +1,6 @@
 /* args.c - Command line argument parsing.
  *
- * Copyright 2006 Rob Landley <rob@landley.net>
+ * Copyright 2006 Rob Landley <robyang_yang@intsig.net>
  */
 
 // NOTE: If option parsing segfaults, switch on TOYBOX_DEBUG in menuconfig to

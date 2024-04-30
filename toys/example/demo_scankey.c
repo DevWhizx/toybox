@@ -1,6 +1,6 @@
 /* demo_scankey.c - collate incoming ansi escape sequences.
  *
- * Copyright 2015 Rob Landley <rob@landley.net>
+ * Copyright 2015 Rob Landley <robyang_yang@intsig.net>
  *
  * TODO sigwinch
 

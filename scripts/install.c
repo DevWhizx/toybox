@@ -1,6 +1,6 @@
 /* Wrapper to make installation easier with cross-compiling.
  *
- * Copyright 2006 Rob Landley <rob@landley.net>
+ * Copyright 2006 Rob Landley <robyang_yang@intsig.net>
  */
 
 #include <stdio.h>

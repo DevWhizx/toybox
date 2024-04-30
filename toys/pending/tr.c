@@ -1,6 +1,6 @@
 /* tr.c - translate or delete characters
  *
- * Copyright 2014 Sandeep Sharma <sandeep.jack2756@gmail.com>
+ * Copyright 2014 Sandeep Sharma <sandeep.jack2756yang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/tr.html
  * TODO: -a (ascii)

@@ -1,7 +1,7 @@
 /* inotifyd.c - inotify daemon.
  *
- * Copyright 2013 Ashwini Kumar <ak.ashwini1981@gmail.com>
- * Copyright 2013 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2013 Ashwini Kumar <ak.ashwini1981yang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * No Standard.
 

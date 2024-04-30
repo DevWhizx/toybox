@@ -1,9 +1,9 @@
 /* traceroute - trace the route to "host".
  *
- * Copyright 2012 Madhur Verma <mad.flexi@gmail.com>
- * Copyright 2013 Kyungwan Han <asura321@gmail.com>
- * Copyright 2013 Bilal Qureshi <bilal.jmi@gmail.com>
- * Copyright 2013 Ashwini Kumar <ak.ashwini1981@gmail.com>
+ * Copyright 2012 Madhur Verma <mad.flexiyang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
+ * Copyright 2013 Bilal Qureshi <bilal.jmiyang_yang@intsig.net>
+ * Copyright 2013 Ashwini Kumar <ak.ashwini1981yang_yang@intsig.net>
  *
  * No Standard
 

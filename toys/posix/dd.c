@@ -1,7 +1,7 @@
 /* dd.c - convert/copy a file
  *
- * Copyright 2013 Ashwini Kumar <ak.ashwini@gmail.com>
- * Copyright 2013 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2013 Ashwini Kumar <ak.ashwiniyang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/dd.html
  *

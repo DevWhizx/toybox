@@ -1,13 +1,13 @@
 /* kill.c - a program to send signals to processes
  *
- * Copyright 2012 Daniel Walter <d.walter@0x90.at>
+ * Copyright 2012 Daniel Walter <d.walteryang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/kill.html
  *
  * killall5.c - Send signal to all processes outside current session.
  *
- * Copyright 2014 Ranjan Kumar <ranjankumar.bth@gmail.com>
- * Copyright 2014 Kyungwan Han <asura321@gamil.com>
+ * Copyright 2014 Ranjan Kumar <ranjankumar.bthyang_yang@intsig.net>
+ * Copyright 2014 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * No Standard
  *

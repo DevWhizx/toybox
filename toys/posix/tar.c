@@ -1,6 +1,6 @@
 /* tar.c - create/extract archives
  *
- * Copyright 2014 Ashwini Kumar <ak.ashwini81@gmail.com>
+ * Copyright 2014 Ashwini Kumar <ak.ashwini81yang_yang@intsig.net>
  *
  * For the command, see
  *   http://pubs.opengroup.org/onlinepubs/007908799/xcu/tar.html

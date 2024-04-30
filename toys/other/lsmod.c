@@ -1,6 +1,6 @@
 /* lsmod.c - Show the status of modules in the kernel
  *
- * Copyright 2012 Elie De Brauwer <eliedebrauwer@gmail.com>
+ * Copyright 2012 Elie De Brauwer <eliedebrauweryang_yang@intsig.net>
 
 USE_LSMOD(NEWTOY(lsmod, NULL, TOYFLAG_SBIN))
 

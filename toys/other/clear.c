@@ -1,6 +1,6 @@
 /* clear.c - clear the screen
  *
- * Copyright 2012 Rob Landley <rob@landley.net>
+ * Copyright 2012 Rob Landley <robyang_yang@intsig.net>
 
 USE_CLEAR(NEWTOY(clear, NULL, TOYFLAG_USR|TOYFLAG_BIN))
 

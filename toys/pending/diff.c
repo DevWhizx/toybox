@@ -1,7 +1,7 @@
 /* diff.c - compare files line by line
  *
- * Copyright 2014 Sandeep Sharma <sandeep.jack2756@gmail.com>
- * Copyright 2014 Ashwini Kumar <ak.ashwini1981@gmail.com>
+ * Copyright 2014 Sandeep Sharma <sandeep.jack2756yang_yang@intsig.net>
+ * Copyright 2014 Ashwini Kumar <ak.ashwini1981yang_yang@intsig.net>
  *
  * See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/diff.html
  * and https://www.cs.dartmouth.edu/~doug/diff.pdf

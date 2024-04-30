@@ -1,7 +1,7 @@
 /* rfkill.c - Enable/disable wireless devices.
  *
- * Copyright 2014 Ranjan Kumar <ranjankumar.bth@gmail.com>
- * Copyright 2014 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2014 Ranjan Kumar <ranjankumar.bthyang_yang@intsig.net>
+ * Copyright 2014 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * No Standard
 

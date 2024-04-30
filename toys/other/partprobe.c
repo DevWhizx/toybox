@@ -1,6 +1,6 @@
 /* partprobe.c - Tell the kernel about partition table changes
  *
- * Copyright 2014 Bertold Van den Bergh <vandenbergh@bertold.org>
+ * Copyright 2014 Bertold Van den Bergh <vandenberghyang_yang@intsig.net>
  *
  * see http://man7.org/linux/man-pages/man8/partprobe.8.html
 

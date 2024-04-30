@@ -1,6 +1,6 @@
 /* mkswap.c - Format swap device.
  *
- * Copyright 2009 Rob Landley <rob@landley.net>
+ * Copyright 2009 Rob Landley <robyang_yang@intsig.net>
 
 USE_MKSWAP(NEWTOY(mkswap, "<1>1L:", TOYFLAG_SBIN))
 

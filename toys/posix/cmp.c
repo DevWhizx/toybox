@@ -1,6 +1,6 @@
 /* cmp.c - Compare two files.
  *
- * Copyright 2012 Timothy Elliott <tle@holymonkey.com>
+ * Copyright 2012 Timothy Elliott <tleyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/cmp.html
 

@@ -1,6 +1,6 @@
 /* reboot.c - Restart, halt or powerdown the system.
  *
- * Copyright 2013 Elie De Brauwer <eliedebrauwer@gmail.com>
+ * Copyright 2013 Elie De Brauwer <eliedebrauweryang_yang@intsig.net>
 
 USE_REBOOT(NEWTOY(reboot, "d:fn", TOYFLAG_SBIN|TOYFLAG_NEEDROOT))
 USE_REBOOT(OLDTOY(halt, reboot, TOYFLAG_SBIN|TOYFLAG_NEEDROOT))

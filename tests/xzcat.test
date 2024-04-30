@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Copyright 2014 Divya Kothari <divya.s.kothari@gmail.com>
-# Copyright 2014 Naha Maggu <maggu.neha@gmail.com>
+# Copyright 2014 Divya Kothari <divya.s.kothariyang_yang@intsig.net>
+# Copyright 2014 Naha Maggu <maggu.nehayang_yang@intsig.net>
 
 [ -f testing.sh ] && . testing.sh
 

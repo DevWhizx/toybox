@@ -1,6 +1,6 @@
 /* ftpget.c - Fetch file(s) from ftp server
  *
- * Copyright 2016 Rob Landley <rob@landley.net>
+ * Copyright 2016 Rob Landley <robyang_yang@intsig.net>
  *
  * No standard for the command, but see https://www.ietf.org/rfc/rfc959.txt
  * TODO: local can be -

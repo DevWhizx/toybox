@@ -1,6 +1,6 @@
 /* yes.c - Repeatedly output a string.
  *
- * Copyright 2007 Rob Landley <rob@landley.net>
+ * Copyright 2007 Rob Landley <robyang_yang@intsig.net>
 
 USE_YES(NEWTOY(yes, 0, TOYFLAG_USR|TOYFLAG_BIN))
 

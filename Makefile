@@ -1,5 +1,5 @@
 # Makefile for toybox.
-# Copyright 2006 Rob Landley <rob@landley.net>
+# Copyright 2006 Rob Landley <robyang_yang@intsig.net>
 
 # If people set these on the make command line, use 'em
 # Note that CC defaults to "cc" so the one in configure doesn't get

@@ -1,8 +1,8 @@
 /* dhcpd.c - DHCP server for dynamic network configuration.
  *
- * Copyright 2013 Madhur Verma <mad.flexi@gmail.com>
- * Copyright 2013 Kyungwan Han <asura321@gamil.com>
- * Copyright 2015 Yeongdeok Suh <skyducks111@gmail.com>
+ * Copyright 2013 Madhur Verma <mad.flexiyang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
+ * Copyright 2015 Yeongdeok Suh <skyducks111yang_yang@intsig.net>
  *
  * No Standard
 USE_DHCPD(NEWTOY(dhcpd, ">1P#<0>65535fi:S46[!46]", TOYFLAG_SBIN|TOYFLAG_ROOTONLY))

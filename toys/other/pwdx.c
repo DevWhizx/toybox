@@ -1,6 +1,6 @@
 /* pwdx.c - report current directory of a process.
  *
- * Copyright 2013 Lukasz Skalski <l.skalski@partner.samsung.com>
+ * Copyright 2013 Lukasz Skalski <l.skalskiyang_yang@intsig.net>
 
 USE_PWDX(NEWTOY(pwdx, "<1a", TOYFLAG_USR|TOYFLAG_BIN))
 

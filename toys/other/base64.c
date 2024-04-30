@@ -1,6 +1,6 @@
 /* base64.c - Encode and decode base64
  *
- * Copyright 2014 Rob Landley <rob@landley.net>
+ * Copyright 2014 Rob Landley <robyang_yang@intsig.net>
  *
  * See https://tools.ietf.org/html/rfc4648
 

@@ -1,6 +1,6 @@
 /* csplit.c - split files on context
  *
- * Copyright 2023 Oliver Webb <aquahobbyist@proton.me>
+ * Copyright 2023 Oliver Webb <aquahobbyistyang_yang@intsig.net>
  *
  * See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/csplit.html
  *

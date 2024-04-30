@@ -1,7 +1,7 @@
 /* netstat.c - Display Linux networking subsystem.
  *
- * Copyright 2012 Ranjan Kumar <ranjankumar.bth@gmail.com>
- * Copyright 2013 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2012 Ranjan Kumar <ranjankumar.bthyang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * Not in SUSv4.
  *

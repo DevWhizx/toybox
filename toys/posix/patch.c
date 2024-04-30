@@ -1,6 +1,6 @@
 /* patch.c - Apply a "universal" diff.
  *
- * Copyright 2007 Rob Landley <rob@landley.net>
+ * Copyright 2007 Rob Landley <robyang_yang@intsig.net>
  *
  * see http://opengroup.org/onlinepubs/9699919799/utilities/patch.html
  * (But only does -u, because who still cares about "ed"?)

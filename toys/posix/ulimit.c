@@ -1,6 +1,6 @@
 /* ulimit.c - Modify resource limits
  *
- * Copyright 2015 Rob Landley <rob@landley.net>
+ * Copyright 2015 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ulimit.html
  * And man prlimit(2).

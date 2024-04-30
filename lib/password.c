@@ -1,6 +1,6 @@
 /* password.c - password read/update helper functions.
  *
- * Copyright 2012 Ashwini Kumar <ak.ashwini@gmail.com>
+ * Copyright 2012 Ashwini Kumar <ak.ashwiniyang_yang@intsig.net>
  */
 
 #include "toys.h"

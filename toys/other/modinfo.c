@@ -1,6 +1,6 @@
 /* modinfo.c - Display module info
  *
- * Copyright 2012 Andre Renaud <andre@bluewatersys.com>
+ * Copyright 2012 Andre Renaud <andreyang_yang@intsig.net>
  *
  * TODO: cleanup
 

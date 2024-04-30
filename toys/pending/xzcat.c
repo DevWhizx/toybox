@@ -1,6 +1,6 @@
 /* xzcat.c - Simple XZ decoder command line tool
  *
- * Author: Lasse Collin <lasse.collin@tukaani.org>
+ * Author: Lasse Collin <lasse.collinyang_yang@intsig.net>
  *
  * This file has been put into the public domain.
  * You can do whatever you want with this file.

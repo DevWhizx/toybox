@@ -1,6 +1,6 @@
 /* fold.c - Line wrap input.
  *
- * Copyright 2023 Rob Landley <rob@landley.net>
+ * Copyright 2023 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/fold.html
 

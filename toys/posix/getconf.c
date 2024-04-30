@@ -1,6 +1,6 @@
 /* getconf.c - get configuration values
  *
- * Copyright 2017 Rob Landley <rob@landley.net>
+ * Copyright 2017 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/getconf.c
  *

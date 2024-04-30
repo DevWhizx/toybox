@@ -1,6 +1,6 @@
 /* nl.c - print line numbers
  *
- * Copyright 2013 CE Strake <strake888@gmail.com>
+ * Copyright 2013 CE Strake <strake888yang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/nl.html
  *

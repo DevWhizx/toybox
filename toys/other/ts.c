@@ -1,6 +1,6 @@
 /* ts.c - timestamp input lines
  *
- * Copyright 2023 Oliver Webb <aquahobbyist@proton.me>
+ * Copyright 2023 Oliver Webb <aquahobbyistyang_yang@intsig.net>
  *
  * No standard.
 

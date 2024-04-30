@@ -4,8 +4,8 @@
 
 [ -f testing.sh ] && . testing.sh
 
-# Copyright 2013 by Kyungsu Kim <kaspyx@gmail.com>
-# Copyright 2013 by Kyungwan Han <asura321@gmail.com>
+# Copyright 2013 by Kyungsu Kim <kaspyxyang_yang@intsig.net>
+# Copyright 2013 by Kyungwan Han <asura321yang_yang@intsig.net>
 
 #testing "name" "command" "result" "infile" "stdin"
 

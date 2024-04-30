@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # POSIX 2008 compliant expand tests.
-# Copyright 2012 by Jonathan Clairembault <jonathan@clairembault.fr>
+# Copyright 2012 by Jonathan Clairembault <jonathanyang_yang@intsig.net>
 
 [ -f testing.sh ] && . testing.sh
 

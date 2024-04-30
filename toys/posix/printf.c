@@ -1,7 +1,7 @@
 /* printf.c - Format and Print the data.
  *
- * Copyright 2014 Sandeep Sharma <sandeep.jack2756@gmail.com>
- * Copyright 2014 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2014 Sandeep Sharma <sandeep.jack2756yang_yang@intsig.net>
+ * Copyright 2014 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/printf.html
  *

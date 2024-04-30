@@ -1,6 +1,6 @@
 /* df.c - report free disk space.
  *
- * Copyright 2006 Rob Landley <rob@landley.net>
+ * Copyright 2006 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/df.html
 

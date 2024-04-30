@@ -1,6 +1,6 @@
 /* cpio.c - a basic cpio
  *
- * Copyright 2013 Isaac Dunham <ibid.ag@gmail.com>
+ * Copyright 2013 Isaac Dunham <ibid.agyang_yang@intsig.net>
  * Copyright 2015 Frontier Silicon Ltd.
  *
  * see https://www.kernel.org/doc/Documentation/early-userspace/buffer-format.txt

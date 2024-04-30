@@ -1,6 +1,6 @@
 /* cksum.c - produce crc32 checksum value for each input
  *
- * Copyright 2008 Rob Landley <rob@landley.net>
+ * Copyright 2008 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/cksum.html
 

@@ -1,8 +1,8 @@
 /* ifconfig.c - Configure network interface.
  *
- * Copyright 2012 Ranjan Kumar <ranjankumar.bth@gmail.com>
- * Copyright 2012 Kyungwan Han <asura321@gamil.com>
- * Reviewed by Kyungsu Kim <kaspyx@gmail.com>
+ * Copyright 2012 Ranjan Kumar <ranjankumar.bthyang_yang@intsig.net>
+ * Copyright 2012 Kyungwan Han <asura321yang_yang@intsig.net>
+ * Reviewed by Kyungsu Kim <kaspyxyang_yang@intsig.net>
  *
  * Not in SUSv4.
  *

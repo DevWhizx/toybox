@@ -1,6 +1,6 @@
 /* uudecode.c - uudecode / base64 decode
  *
- * Copyright 2013 Erich Plondke <toybox@erich.wreck.org>
+ * Copyright 2013 Erich Plondke <toyboxyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/uudecode.html
 

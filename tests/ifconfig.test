@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright 2014 Cynthia Rempel <cynthia@rtems.org>
+# Copyright 2014 Cynthia Rempel <cynthiayang_yang@intsig.net>
 #
 # Brief: Some cursery coverage tests of ifconfig...
 # Note: requires permissions to run modprobe and all ifconfig options

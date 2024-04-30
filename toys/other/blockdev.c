@@ -1,6 +1,6 @@
 /* blockdev.c -show/set blockdev information.
  *
- * Copyright 2014 Sameer Prakash Pradhan <sameer.p.pradhan@gmail.com>
+ * Copyright 2014 Sameer Prakash Pradhan <sameer.p.pradhanyang_yang@intsig.net>
  *
  * No Standard.
 

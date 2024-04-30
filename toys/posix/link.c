@@ -1,6 +1,6 @@
 /* link.c - hardlink a file
  *
- * Copyright 2011 Rob Landley <rob@landley.net>
+ * Copyright 2011 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/link.html
 

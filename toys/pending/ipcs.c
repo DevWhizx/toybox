@@ -1,6 +1,6 @@
 /* ipcs.c - provide information on ipc facilities
  *
- * Copyright 2014 Sandeep Sharma <sandeep.jack2756@gmail.com>
+ * Copyright 2014 Sandeep Sharma <sandeep.jack2756yang_yang@intsig.net>
  *
  * see http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ipcs.html
 

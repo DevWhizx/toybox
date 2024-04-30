@@ -1,6 +1,6 @@
 /* killall.c - Send signal (default: TERM) to all processes with given names.
  *
- * Copyright 2012 Andreas Heck <aheck@gmx.de>
+ * Copyright 2012 Andreas Heck <aheckyang_yang@intsig.net>
  *
  * http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/killall.html
 

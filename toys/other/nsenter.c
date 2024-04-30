@@ -1,12 +1,12 @@
 /* nsenter.c - Enter existing namespaces
  *
- * Copyright 2014 Andy Lutomirski <luto@amacapital.net>
+ * Copyright 2014 Andy Lutomirski <lutoyang_yang@intsig.net>
  *
  * See http://man7.org/linux/man-pages/man1/nsenter.1.html
  *
  * unshare.c - run command in new context
  *
- * Copyright 2011 Rob Landley <rob@landley.net>
+ * Copyright 2011 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://man7.org/linux/man-pages/man1/unshare.1.html
  *

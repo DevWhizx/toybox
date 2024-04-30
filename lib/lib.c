@@ -1,6 +1,6 @@
 /* lib.c - various reusable stuff.
  *
- * Copyright 2006 Rob Landley <rob@landley.net>
+ * Copyright 2006 Rob Landley <robyang_yang@intsig.net>
  */
 
 #define SYSLOG_NAMES

@@ -1,6 +1,6 @@
 /* readlink.c - Return string representation of a symbolic link.
  *
- * Copyright 2007 Rob Landley <rob@landley.net>
+ * Copyright 2007 Rob Landley <robyang_yang@intsig.net>
 
 USE_READLINK(NEWTOY(readlink, "<1vnf(canonicalize)emqz[-mef][-qv]", TOYFLAG_USR|TOYFLAG_BIN))
 USE_REALPATH(NEWTOY(realpath, "<1(relative-base):R(relative-to):s(no-symlinks)LPemqz[-Ps][-LP][-me]", TOYFLAG_USR|TOYFLAG_BIN))

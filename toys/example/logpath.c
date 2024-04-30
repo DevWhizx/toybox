@@ -1,6 +1,6 @@
 /* logpath.c - Record commands called out of $PATH to a log
  *
- * Copyright 2019 Rob Landley <rob@landley.net>
+ * Copyright 2019 Rob Landley <robyang_yang@intsig.net>
  *
  * I made it up. Must be built standalone to work. (Is its own multiplexer.)
 

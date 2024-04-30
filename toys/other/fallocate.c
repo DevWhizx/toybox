@@ -1,6 +1,6 @@
 /* fallocate.c - Preallocate space to a file
  *
- * Copyright 2013 Felix Janda <felix.janda@posteo.de>
+ * Copyright 2013 Felix Janda <felix.jandayang_yang@intsig.net>
  *
  * No standard
 

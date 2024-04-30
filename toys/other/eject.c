@@ -1,7 +1,7 @@
 /* eject.c - eject device.
  *
- * Copyright 2012 Harvind Singh <harvindsingh1981@gmail.com>
- * Copyright 2013 Kyungwan Han <asura321@gamil.com>
+ * Copyright 2012 Harvind Singh <harvindsingh1981yang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * No standard.
 

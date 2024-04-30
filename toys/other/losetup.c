@@ -1,6 +1,6 @@
 /* losetup.c - Loopback setup
  *
- * Copyright 2012 Rob Landley <rob@landley.net>
+ * Copyright 2012 Rob Landley <robyang_yang@intsig.net>
  *
  * No standard. (Sigh.)
 

@@ -1,7 +1,7 @@
 /* pidof.c - Print the Process IDs of all processes with the given names.
  *
- * Copyright 2012 Andreas Heck <aheck@gmx.de>
- * Copyright 2012 Elie De Brauwer <eliedebrauwer@gmail.com>
+ * Copyright 2012 Andreas Heck <aheckyang_yang@intsig.net>
+ * Copyright 2012 Elie De Brauwer <eliedebrauweryang_yang@intsig.net>
  *
  * http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/pidof.html
 

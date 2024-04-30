@@ -2,7 +2,7 @@
  *
  * Copyright 2012 Sony Network Entertainment, Inc.
  *
- * by Tim Bird <tim.bird@am.sony.com>
+ * by Tim Bird <tim.birdyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/id.html
 

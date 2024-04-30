@@ -1,7 +1,7 @@
 /*strings.c - print the strings of printable characters in files.
  *
- * Copyright 2014 Kyung-su Kim <kaspyx@gmail.com>
- * Copyright 2014 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2014 Kyung-su Kim <kaspyxyang_yang@intsig.net>
+ * Copyright 2014 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/strings.html
  *

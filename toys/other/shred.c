@@ -1,6 +1,6 @@
 /* shred.c - Overwrite a file to securely delete
  *
- * Copyright 2014 Rob Landley <rob@landley.net>
+ * Copyright 2014 Rob Landley <robyang_yang@intsig.net>
  *
  * No standard
 

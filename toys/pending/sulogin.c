@@ -1,7 +1,7 @@
 /* sulogin.c - Single User Login.
  *
- * Copyright 2014 Ashish Kumar Gupta <ashishkguptaiit.cse@gmail.com>
- * Copyright 2014 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2014 Ashish Kumar Gupta <ashishkguptaiit.cseyang_yang@intsig.net>
+ * Copyright 2014 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  *
  * Relies on libcrypt for hash calculation.

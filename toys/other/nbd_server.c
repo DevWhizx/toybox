@@ -1,6 +1,6 @@
 /* nbd-server.c - network block device server
  *
- * Copyright 2022 Rob Landley <rob@landley.net>
+ * Copyright 2022 Rob Landley <robyang_yang@intsig.net>
  *
  * Not in SUSv4.
  *

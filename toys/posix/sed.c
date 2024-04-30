@@ -1,6 +1,6 @@
 /* sed.c - stream editor. Thing that does s/// and other stuff.
  *
- * Copyright 2014 Rob Landley <rob@landley.net>
+ * Copyright 2014 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sed.html
  *

@@ -1,7 +1,7 @@
 /* arp.c - manipulate the system ARP cache
  *
- * Copyright 2014 Sandeep Sharma <sandeep.jack2756@gmail.com>
- * Copyright 2014 Kyungwan Han <asura321@gamil.com>
+ * Copyright 2014 Sandeep Sharma <sandeep.jack2756yang_yang@intsig.net>
+ * Copyright 2014 Kyungwan Han <asura321yang_yang@intsig.net>
  * No Standard
 
 USE_ARP(NEWTOY(arp, "vi:nDsdap:A:H:[+Ap][!sd]", TOYFLAG_USR|TOYFLAG_BIN))

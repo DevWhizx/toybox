@@ -1,6 +1,6 @@
 /* blkdiscard - discard device sectors
  *
- * Copyright 2020 Patrick Oppenlander <patrick.oppenlander@gmail.com>
+ * Copyright 2020 Patrick Oppenlander <patrick.oppenlanderyang_yang@intsig.net>
  *
  * See http://man7.org/linux/man-pages/man8/blkdiscard.8.html
  *

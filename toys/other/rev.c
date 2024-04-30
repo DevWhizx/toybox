@@ -1,6 +1,6 @@
 /* rev.c - reverse lines of a set of given input files
  *
- * Copyright 2012 Elie De Brauwer <eliedebrauwer@gmail.com>
+ * Copyright 2012 Elie De Brauwer <eliedebrauweryang_yang@intsig.net>
 
 USE_REV(NEWTOY(rev, NULL, TOYFLAG_USR|TOYFLAG_BIN))
 

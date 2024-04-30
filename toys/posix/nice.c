@@ -1,6 +1,6 @@
 /* nice.c - Run a program at a different niceness level.
  *
- * Copyright 2010 Rob Landley <rob@landley.net>
+ * Copyright 2010 Rob Landley <robyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/nice.html
 

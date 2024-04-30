@@ -1,6 +1,6 @@
 /* w.c - shows logged in users
  *
- * Copyright 2012 Gaurang Shastri <gmshastri@gmail.com>
+ * Copyright 2012 Gaurang Shastri <gmshastriyang_yang@intsig.net>
 
 USE_W(NEWTOY(w, NULL, TOYFLAG_USR|TOYFLAG_BIN))
 

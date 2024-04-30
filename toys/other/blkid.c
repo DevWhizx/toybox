@@ -1,6 +1,6 @@
 /* blkid.c - Prints type, label and UUID of filesystem(s).
  *
- * Copyright 2013 Brad Conroy <bconroy@uis.edu>
+ * Copyright 2013 Brad Conroy <bconroyyang_yang@intsig.net>
  *
  * See ftp://ftp.kernel.org/pub/linux/utils/util-linux/v2.24/libblkid-docs/api-index-full.html
  * TODO: -U and -L should require arguments

@@ -1,7 +1,7 @@
 /*
  *  dialog.h -- common declarations for all dialog modules
  *
- *  AUTHOR: Savio Lam (lam836@cs.cuhk.hk)
+ *  AUTHOR: Savio Lam (lam836yang_yang@intsig.net)
  *
  *  This program is free software; you can redistribute it and/or
  *  modify it under the terms of the GNU General Public License

@@ -1,6 +1,6 @@
 /* more.c - View FILE (or stdin) one screenfull at a time.
  *
- * Copyright 2013 Bilal Qureshi <bilal.jmi@gmail.com>
+ * Copyright 2013 Bilal Qureshi <bilal.jmiyang_yang@intsig.net>
  *
  * http://pubs.opengroup.org/onlinepubs/9699919799/utilities/more.html
 

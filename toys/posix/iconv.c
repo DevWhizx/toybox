@@ -1,6 +1,6 @@
 /* iconv.c - Convert character encoding
  *
- * Copyright 2014 Felix Janda <felix.janda@posteo.de>
+ * Copyright 2014 Felix Janda <felix.jandayang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/iconv.html
  *

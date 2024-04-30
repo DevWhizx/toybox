@@ -1,6 +1,6 @@
 /* userdel.c - delete a user
  *
- * Copyright 2014 Ashwini Kumar <ak.ashwini1981@gmail.com>
+ * Copyright 2014 Ashwini Kumar <ak.ashwini1981yang_yang@intsig.net>
  *
  * See http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/userdel.html
 

@@ -1,7 +1,7 @@
 /* vconfig.c - Creates virtual ethernet devices.
  *
- * Copyright 2012 Sandeep Sharma <sandeep.jack2756@gmail.com>
- * Copyright 2012 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2012 Sandeep Sharma <sandeep.jack2756yang_yang@intsig.net>
+ * Copyright 2012 Kyungwan Han <asura321yang_yang@intsig.net>
  *
  * No standard
 

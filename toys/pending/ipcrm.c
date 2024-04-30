@@ -1,6 +1,6 @@
 /* ipcrm.c - remove msg que, sem or shared memory
  *
- * Copyright 2014 Ashwini Kumar <ak.ashwini1981@gmail.com>
+ * Copyright 2014 Ashwini Kumar <ak.ashwini1981yang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/ipcrm.html
 

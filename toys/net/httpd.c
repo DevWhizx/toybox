@@ -1,6 +1,6 @@
 /* httpd.c - Web server.
  *
- * Copyright 2022 Rob Landley <rob@landley.net>
+ * Copyright 2022 Rob Landley <robyang_yang@intsig.net>
  *
  * See https://www.ietf.org/rfc/rfc2616.txt
  *

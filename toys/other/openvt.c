@@ -1,7 +1,7 @@
 /* openvt.c - Run a program on a new VT
  *
- * Copyright 2008 David Anders <danders@amltd.com>
- * Copyright 2014 Vivek Kumar Bhagat <vivek.bhagat89@gmail.com>
+ * Copyright 2008 David Anders <dandersyang_yang@intsig.net>
+ * Copyright 2014 Vivek Kumar Bhagat <vivek.bhagat89yang_yang@intsig.net>
  *
  * No Standard
 

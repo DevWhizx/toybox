@@ -1,6 +1,6 @@
 /* Toybox infrastructure.
  *
- * Copyright 2006 Rob Landley <rob@landley.net>
+ * Copyright 2006 Rob Landley <robyang_yang@intsig.net>
  */
 
 #include "toys.h"

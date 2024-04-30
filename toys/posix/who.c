@@ -2,7 +2,7 @@
  *
  * Copyright 2012 ProFUSION Embedded Systems
  *
- * by Luis Felipe Strano Moraes <lfelipe@profusion.mobi>
+ * by Luis Felipe Strano Moraes <lfelipeyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/who.html
  *

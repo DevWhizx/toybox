@@ -1,7 +1,7 @@
 /* vi.c - You can't spell "evil" without "vi".
  *
- * Copyright 2015 Rob Landley <rob@landley.net>
- * Copyright 2019 Jarno Mäkipää <jmakip87@gmail.com>
+ * Copyright 2015 Rob Landley <robyang_yang@intsig.net>
+ * Copyright 2019 Jarno Mäkipää <jmakip87yang_yang@intsig.net>
  *
  * See http://pubs.opengroup.org/onlinepubs/9699919799/utilities/vi.html
 

@@ -1,6 +1,6 @@
 /* nbd-client.c - network block device client
  *
- * Copyright 2010 Rob Landley <rob@landley.net>
+ * Copyright 2010 Rob Landley <robyang_yang@intsig.net>
  *
  * Not in SUSv4.
 

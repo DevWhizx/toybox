@@ -1,7 +1,7 @@
 /* dumpleases.c - Dump the leases granted by udhcpd.
  *
- * Copyright 2013 Sandeep Sharma <sandeep.jack2756@gmail.com>
- * Copyright 2013 Kyungwan Han <asura321@gmail.com>
+ * Copyright 2013 Sandeep Sharma <sandeep.jack2756yang_yang@intsig.net>
+ * Copyright 2013 Kyungwan Han <asura321yang_yang@intsig.net>
  *
 
 USE_DUMPLEASES(NEWTOY(dumpleases, ">0arf:[!ar]", TOYFLAG_USR|TOYFLAG_BIN))

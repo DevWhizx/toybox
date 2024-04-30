@@ -1,6 +1,6 @@
 /* which.c - Find executable files in $PATH.
  *
- * Copyright 2006 Rob landley <rob@landley.net>
+ * Copyright 2006 Rob landley <robyang_yang@intsig.net>
 
 USE_WHICH(NEWTOY(which, "<1a", TOYFLAG_USR|TOYFLAG_BIN))
 

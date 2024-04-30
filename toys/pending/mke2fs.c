@@ -1,6 +1,6 @@
 /* mke2fs.c - Create an ext2 filesystem image.
  *
- * Copyright 2006, 2007 Rob Landley <rob@landley.net>
+ * Copyright 2006, 2007 Rob Landley <robyang_yang@intsig.net>
 
 // Still to go: "E:jJ:L:m:O:"
 USE_MKE2FS(NEWTOY(mke2fs, "<1>2g:Fnqm#N#i#b#", TOYFLAG_SBIN))

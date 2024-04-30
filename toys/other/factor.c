@@ -1,6 +1,6 @@
 /* factor.c - Factor integers
  *
- * Copyright 2014 Rob Landley <rob@landley.net>
+ * Copyright 2014 Rob Landley <robyang_yang@intsig.net>
  *
  * See https://man7.org/linux/man-pages/man1/factor.1.html
  *

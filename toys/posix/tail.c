@@ -1,6 +1,6 @@
 /* tail.c - copy last lines from input to stdout.
  *
- * Copyright 2012 Timothy Elliott <tle@holymonkey.com>
+ * Copyright 2012 Timothy Elliott <tleyang_yang@intsig.net>
  *
  * See http://opengroup.org/onlinepubs/9699919799/utilities/tail.html
  *

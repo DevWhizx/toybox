@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Copyright 2006 Rob Landley <rob@landley.net>
+# Copyright 2006 Rob Landley <robyang_yang@intsig.net>
 
 # Dumb little utility function to print out the assembly dump of a single
 # function, or list the functions so dumpable in an executable.  You'd think

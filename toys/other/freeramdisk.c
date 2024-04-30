@@ -1,6 +1,6 @@
 /* freeramdisk.c - Free all memory allocated to ramdisk
  *
- * Copyright 2014 Vivek Kumar Bhagat <vivek.bhagat89@gmail.com>
+ * Copyright 2014 Vivek Kumar Bhagat <vivek.bhagat89yang_yang@intsig.net>
  *
  * No Standard
 

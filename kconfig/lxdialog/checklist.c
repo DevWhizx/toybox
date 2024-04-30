@@ -1,10 +1,10 @@
 /*
  *  checklist.c -- implements the checklist box
  *
- *  ORIGINAL AUTHOR: Savio Lam (lam836@cs.cuhk.hk)
- *     Stuart Herbert - S.Herbert@sheffield.ac.uk: radiolist extension
- *     Alessandro Rubini - rubini@ipvvis.unipv.it: merged the two
- *  MODIFIED FOR LINUX KERNEL CONFIG BY: William Roadcap (roadcap@cfw.com)
+ *  ORIGINAL AUTHOR: Savio Lam (lam836yang_yang@intsig.net)
+ *     Stuart Herbert - S.Herbertyang_yang@intsig.net: radiolist extension
+ *     Alessandro Rubini - rubiniyang_yang@intsig.net: merged the two
+ *  MODIFIED FOR LINUX KERNEL CONFIG BY: William Roadcap (roadcapyang_yang@intsig.net)
  *
  *  This program is free software; you can redistribute it and/or
  *  modify it under the terms of the GNU General Public License

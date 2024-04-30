@@ -1,6 +1,6 @@
 /* switch_root.c - Switch from rootfs/initramfs to another filesystem
  *
- * Copyright 2005 Rob Landley <rob@landley.net>
+ * Copyright 2005 Rob Landley <robyang_yang@intsig.net>
 
 USE_SWITCH_ROOT(NEWTOY(switch_root, "<2c:h", TOYFLAG_SBIN))
 

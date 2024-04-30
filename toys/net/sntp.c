@@ -1,6 +1,6 @@
 /* sntp.c - sntp client and server
  *
- * Copyright 2019 Rob Landley <rob@landley.net>
+ * Copyright 2019 Rob Landley <robyang_yang@intsig.net>
  *
  * See https://www.ietf.org/rfc/rfc4330.txt
 

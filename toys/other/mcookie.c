@@ -1,6 +1,6 @@
 /* mcookie - generate a 128-bit random number (used for X "magic cookies")
  *
- * Copyright 2019 AD Isaac Dunham <ibid.ag@gmail.com>
+ * Copyright 2019 AD Isaac Dunham <ibid.agyang_yang@intsig.net>
  *
  * No standard.
  *

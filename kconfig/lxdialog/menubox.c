@@ -1,8 +1,8 @@
 /*
  *  menubox.c -- implements the menu box
  *
- *  ORIGINAL AUTHOR: Savio Lam (lam836@cs.cuhk.hk)
- *  MODIFIED FOR LINUX KERNEL CONFIG BY: William Roadcap (roadcapw@cfw.com)
+ *  ORIGINAL AUTHOR: Savio Lam (lam836yang_yang@intsig.net)
+ *  MODIFIED FOR LINUX KERNEL CONFIG BY: William Roadcap (roadcapwyang_yang@intsig.net)
  *
  *  This program is free software; you can redistribute it and/or
  *  modify it under the terms of the GNU General Public License
@@ -20,7 +20,7 @@
  */
 
 /*
- *  Changes by Clifford Wolf (god@clifford.at)
+ *  Changes by Clifford Wolf (godyang_yang@intsig.net)
  *
  *  [ 1998-06-13 ]
  *
@@ -49,7 +49,7 @@
  *        lxdialog, it sets the scrolling so that the selected item is in the
  *        middle of the menu box, not at the bottom.
  *
- * 02 January 1999, Michael Elizabeth Chastain (mec@shout.net)
+ * 02 January 1999, Michael Elizabeth Chastain (mecyang_yang@intsig.net)
  * Reset 'scroll' to 0 if the value from lxdialog.scrltmp is bogus.
  * This fixes a bug in Menuconfig where using ' ' to descend into menus
  * would leave mis-synchronized lxdialog.scrltmp files lying around,
